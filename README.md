@@ -24,4 +24,8 @@ Hi, I'm Abhinav 👋<br><br>18 y/o Diploma Computer Engineering Student<br><br>F
 ---
 [![](https://visitcount.itsvg.in/api?id=abhinav05-bhatpude&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌍 Open Source
+
+- 🎉 Successfully made my first merged Open Source Contribution on GitHub.
+- Currently contributing to JavaScript and React ecosystem projects.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
