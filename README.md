@@ -126,6 +126,7 @@ AI-powered personal knowledge management platform.
 
 ## 🌍 Open Source
 
-- 🎉 Successfully made my first merged Open Source Contribution on GitHub.
-- Currently contributing to JavaScript and React ecosystem projects.
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎉 Successfully merged my first open-source Pull Request.
+- 🔧 Learning professional Git and GitHub contribution workflows.
+- 🌐 Exploring open-source projects across the JavaScript ecosystem.
+- 🚀 Focused on making meaningful contributions and learning from real-world codebases.
