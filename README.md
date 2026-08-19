@@ -68,6 +68,45 @@ Become a strong software engineer by building real-world products and continuous
   <img src="https://img.shields.io/badge/AI_Agents-FF6B35?style=flat-square" />
 </p>
 
+# 🚀 Featured Projects
+
+### 🧠 SkillMatch AI
+AI-powered resume analysis and internship preparation platform.
+
+**Stack:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS
+
+- PDF resume upload and parsing
+- Automatic skill extraction
+- AI-powered resume insights
+- REST API architecture
+
+---
+
+### 🔍 StartupLens AI
+AI-powered startup validation platform for analyzing business ideas.
+
+**Stack:** Next.js • TypeScript • PostgreSQL • Prisma • Auth.js • Gemini API
+
+- AI feasibility reports
+- SWOT analysis
+- Monetization strategies
+- Launch roadmaps
+- Secure authentication and CRUD operations
+
+---
+
+### 🧠 RecallAI
+AI-powered personal knowledge management platform.
+
+**Stack:** Next.js • TypeScript • PostgreSQL • Prisma • Auth.js • Gemini API
+
+- Folder-based note organization
+- Real-time search
+- AI summaries and key insights
+- AI-generated study notes
+- Google authentication
+- 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhinav05-bhatpude&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abhinav05-bhatpude&theme=dark&hide_border=false)<br/>
