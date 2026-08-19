@@ -105,7 +105,18 @@ AI-powered personal knowledge management platform.
 - AI summaries and key insights
 - AI-generated study notes
 - Google authentication
-- 
+
+- ## 🧠 How I Learn
+
+I learn by building.
+
+My development workflow is simple:
+
+> Learn → Build → Test → Debug → Improve → Ship
+
+I turn the concepts I learn into practical projects, work with real development tools, and continuously improve my understanding through hands-on development.
+
+I'm focused on becoming a better engineer through consistent building, problem-solving, and real-world experience.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhinav05-bhatpude&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
