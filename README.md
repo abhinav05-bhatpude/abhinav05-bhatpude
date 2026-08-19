@@ -1,5 +1,28 @@
 # 💫 About Me:
-Hi, I'm Abhinav 👋<br><br>18 y/o Diploma Computer Engineering Student<br><br>Frontend Developer | Aspiring MERN Stack Developer | Future Software Engineer<br><br>🚀 Currently:<br><br>* Building responsive and interactive frontend applications<br>* Learning JavaScript deeply + Node.js in parallel<br>* Strengthening real-world project skills<br><br>🛠️ Focus:<br><br>* Clean UI, performance, and practical projects<br>* Daily Git & GitHub usage<br>* Consistent public learning<br><br>🎯 Goal:<br>Become a job-ready Frontend Developer, then transition into Full Stack (MERN)<br><br>📌 Open to internships, collaborations, and growth opportunities<br><br>
+
+Hi, I'm Abhinav 👋<br><br>
+
+18 y/o Diploma Computer Engineering Student<br><br>
+
+Full-Stack Developer | MERN Stack | Next.js | TypeScript<br><br>
+
+🚀 Currently:<br><br>
+
+* Building full-stack web applications with React, Next.js, Node.js, and Express.js<br>
+* Working with PostgreSQL, MongoDB, Prisma ORM, and REST APIs<br>
+* Exploring AI-powered applications using Gemini API<br><br>
+
+🛠️ Focus:<br><br>
+
+* Building production-style web applications<br>
+* Writing clean, maintainable, and scalable code<br>
+* Strengthening full-stack development and system design skills<br>
+* Contributing to open-source projects<br><br>
+
+🎯 Goal:<br>
+Become a strong software engineer by building real-world products and continuously improving my technical skills.<br><br>
+
+📌 Open to remote software engineering and full-stack internship opportunities
 
 
 ## 🌐 Socials:
