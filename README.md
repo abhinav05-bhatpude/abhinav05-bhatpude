@@ -130,3 +130,11 @@ AI-powered personal knowledge management platform.
 - 🔧 Learning professional Git and GitHub contribution workflows.
 - 🌐 Exploring open-source projects across the JavaScript ecosystem.
 - 🚀 Focused on making meaningful contributions and learning from real-world codebases.
+
+- ## 🎯 Currently Looking For
+
+- 💼 Actively seeking Software Engineering / Full-Stack Development internships
+- 🌐 Open to remote internship opportunities
+- 🚀 Interested in MERN Stack, Next.js, and AI-powered applications
+- 🤝 Open to collaborating on meaningful projects and open-source initiatives
+- 📚 Continuously improving my full-stack development skills through hands-on projects
